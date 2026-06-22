@@ -1,0 +1,14 @@
+uv
+gitsource
+minsearch
+anthropic
+requests
+jupyter
+python-dotenv
+toyaikit
+
+
+
+
+
+
