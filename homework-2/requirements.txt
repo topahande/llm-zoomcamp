@@ -1,0 +1,16 @@
+uv
+gitsource
+minsearch
+anthropic
+requests
+jupyter
+python-dotenv
+toyaikit
+tokenizers
+numpy
+tqdm
+huggingface-hub
+onnxruntime
+
+
+
